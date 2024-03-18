@@ -1,0 +1,25 @@
+{
+  "name": "nayin-tool",
+  "version": "1.0.0",
+  "description": "纳音预测大盘走势",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoguan1985/nayin-tool.git"
+  },
+  "keywords": [
+    "纳音"
+  ],
+  "author": "guanyud@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoguan1985/nayin-tool/issues"
+  },
+  "homepage": "https://github.com/xiaoguan1985/nayin-tool#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
