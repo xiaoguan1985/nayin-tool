@@ -1,7 +1,7 @@
 {
   "name": "nayin-tool",
   "version": "1.0.0",
-  "description": "纳音预测大盘走势",
+  "description": "纳音预测大盘走势-黄金走势",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
