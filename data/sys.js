@@ -91,19 +91,7 @@ const sysData = {
         { key:"辛丑", value:"壁上土", },
         { key:"壬寅", value:"金箔金", },
         { key:"癸卯", value:"金箔金", }
-      ],
-      [
-        { key:"甲辰", value:"覆灯火", },
-        { key:"乙巳", value:"覆灯火", },
-        { key:"丙午", value:"天河水", },
-        { key:"丁未", value:"天河水", },
-        { key:"戊申", value:"大驿土", },
-        { key:"己酉", value:"大驿土", },
-        { key:"庚戌", value:"钗钏金", },
-        { key:"辛亥", value:"钗钏金", },
-        { key:"壬子", value:"桑柘木", },
-        { key:"癸丑", value:"桑柘木", }
-      ],
+      ],      
       [
         { key:"甲寅", value:"大溪水", },
         { key:"乙卯", value:"大溪水", },
