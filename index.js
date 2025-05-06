@@ -96,7 +96,7 @@ bazi.hGan = function(){  //时干
   if(rg=="甲"||rg=="己") sg=tg[(1+dz0.indexOf(sz))%10];
       if(rg=="乙"||rg=="庚") sg=tg[(3+dz0.indexOf(sz))%10];
       if(rg=="丙"||rg=="辛") sg=tg[(5+dz0.indexOf(sz))%10];
-      if(rg=="丁"||rg=="壬") sg=tg[(7+dz0.indexOf(sz))%10];
+      // if(rg=="丁"||rg=="壬") sg=tg[(7+dz0.indexOf(sz))%10];
       if(rg=="戊"||rg=="癸") sg=tg[(9+dz0.indexOf(sz))%10];
       return sg;
 }
